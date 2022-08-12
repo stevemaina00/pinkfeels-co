@@ -51,7 +51,7 @@ ul{
     font-size: xx-large;
     font-weight: bolder;
     float: right;
-  margin-right: 650px;}
+  margin-right: 535px;}
     button{
         border-radius: 250px;
         margin-left: 100px;
@@ -74,7 +74,7 @@ ul{
     
       button{
         border-radius: 250px;
-        margin-left: 100px;
+        margin-left: 5px;
         height: 40px;
         width: 150px;
         text-align: center;
@@ -126,6 +126,7 @@ ul{
    position: relative;
    margin-right: 105px;
    padding: 20px;
+   margin-right: 20px;
  
 
   }
@@ -142,10 +143,11 @@ ul{
 }
 span{
   color:yellow;
-  font-size: xx-large;
+  font-size: x-large;
   font-weight: bolder;
   float: right;
-  margin-right: 250px;
+  margin-right: 75px;
+  margin-top: -75px;
 }
 
 .motto>p{
