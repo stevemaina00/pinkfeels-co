@@ -124,4 +124,16 @@ ul{
 
 .motto{
   text-align: center;
+  font-style: italic;
+  font-size: large;
+  font-weight: bolder;
+  
+}
+span{
+  color: purple;
+  font-size: larger;
+  font-weight: bolder;
+}
+.motto>p{
+  color: pink;
 }
