@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Space Grotesk', sans-serif;
+}
+.ul:hover {
+    text-decoration: wavy;
+      color: white;
+  }
+.head{
+    background-image: url('https://media.istockphoto.com/photos/fashionable-beautiful-big-red-handbag-picture-id493827882?k=20&m=493827882&s=612x612&w=0&h=evmSY3Rdrfn1IMgJOpWvrBwxudptSuI17e3ba3XdbzY=');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 95vh;
+    background-position: center;
+    position: relative;
+    background-size: cover;
+    color: pink;
+    position: relative;
+    font-weight: bolder;
+    
+}
+ul{
+    text-align: center;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 35px;
+    font-size: larger;
+    font-weight: bold;
+    list-style-type: none;
+    position: sticky;
+    top: 0;
+  }
+    
+
+#home p{
+    text-align: left;
+    padding-top: -6px;
+    margin-left: 100px;
+    font-size: larger;
+    font-weight: bold;
+    color: white;
+  }
+  #home h1{
+    color: rgb(246, 244, 246);
+    text-align: left;
+    font-style: italic;
+    padding-top: 105px;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-left: 100px;}
+    button{
+        border-radius: 250px;
+        margin-left: 100px;
+        height: 40px;
+        width: 150px;
+        text-align: center;
+        background-color: pink;
+        color: white;
+        font-weight: bold;
+      
+      }
+      .head>h1{
+        margin: 50px;
+      }
+      #logo{
+        font-weight: bolder;
+        font-size: xx-large;
+        color: pink;
+      }
+    
+      button{
+        border-radius: 250px;
+        margin-left: 100px;
+        height: 40px;
+        width: 150px;
+        text-align: center;
+        background-color: pink;
+        color: white;
+        font-weight: bold;
+      
+      }
+      .About-us{
+        text-align: center;
+        color: purple;
+        font-size: x-large;
+        font-weight: bolder;
+      }
+      #products{
+        box-sizing: border-box;
+        height: 1000px;
+        width: 100%;
+        background-color: whitesmoke;
+        margin-top: 25px;
+        
+      }
+      #products h1{
+        text-align: center;
+        color: black;
+        font-style: italic;
+      }
+
+.w3-content{
+    margin-left: 75px;
+    position: relative;
+    margin-top: 20px;
+  }
+  #footer {
+    box-sizing: border-box;
+    height: 550px;
+    width: 100%;
+    background-color: pink;
+    margin-top: -400px;
+    
+  }
+  .words{
+   float: right;
+   font-style: italic;
+   font-weight: bold;
+   font-size: large;
+   margin-top: -500px;
+   position: relative;
+   margin-right: 105px;
+ 
+
+  }
