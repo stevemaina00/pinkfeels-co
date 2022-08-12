@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Space Grotesk', sans-serif;
+  
 }
 .ul:hover {
     text-decoration: wavy;
@@ -90,10 +91,11 @@ ul{
       }
       #products{
         box-sizing: border-box;
-        height: 650px;
+        height: 570px;
         width: 100%;
         background-color: whitesmoke;
-        margin-top: 5px;
+      
+        padding-top: 35px;
         
       }
       #products h1{
@@ -107,6 +109,11 @@ ul{
     margin-left: 75px;
     position: relative;
     margin-top: 20px;
+    
+  }
+  .mySlides{
+    border-radius: 25px;
+
   }
  
   
@@ -118,6 +125,7 @@ ul{
    margin-top: -320px;
    position: relative;
    margin-right: 105px;
+   padding: 20px;
  
 
   }
@@ -130,10 +138,16 @@ ul{
   
 }
 span{
-  color: purple;
+  color: rgb(226, 142, 226);
   font-size: larger;
   font-weight: bolder;
 }
+
 .motto>p{
-  color: pink;
+  
+  font-family: 'Rubik Distressed', cursive;
+font-family: 'Space Grotesk', sans-serif;
+  font-weight: bold;
+  font-size: large;
+  font-family: 'Space Grotesk', sans-serif;
 }
