@@ -90,16 +90,17 @@ ul{
       }
       #products{
         box-sizing: border-box;
-        height: 850px;
+        height: 650px;
         width: 100%;
         background-color: whitesmoke;
-        margin-top: 25px;
+        margin-top: 5px;
         
       }
       #products h1{
         text-align: center;
         color: black;
         font-style: italic;
+       
       }
 
 .w3-content{
@@ -114,11 +115,13 @@ ul{
    font-style: italic;
    font-weight: bold;
    font-size: large;
-   margin-top: -400px;
+   margin-top: -320px;
    position: relative;
    margin-right: 105px;
  
 
   }
 
-   
+.motto{
+  text-align: center;
+}
