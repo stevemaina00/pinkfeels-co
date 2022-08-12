@@ -90,7 +90,7 @@ ul{
       }
       #products{
         box-sizing: border-box;
-        height: 1000px;
+        height: 850px;
         width: 100%;
         background-color: whitesmoke;
         margin-top: 25px;
@@ -107,27 +107,18 @@ ul{
     position: relative;
     margin-top: 20px;
   }
-  #footer {
-    box-sizing: border-box;
-    height: 550px;
-    width: 100%;
-    background-color: pink;
-    margin-top: -400px;
-    
-  }
+ 
+  
   .words{
    float: right;
    font-style: italic;
    font-weight: bold;
    font-size: large;
-   margin-top: -500px;
+   margin-top: -400px;
    position: relative;
    margin-right: 105px;
  
 
   }
-  .About-us{
-    font-style: italic;
-    font-weight: bolder;
-    font-family: 'Space Grotesk', sans-serif;
-  }
+
+   
