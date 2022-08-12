@@ -164,3 +164,9 @@ font-family: 'Space Grotesk', sans-serif;
   font-size: xx-large;
   
 }
+#footer{
+  box-sizing: border-box;
+  height: 250px;
+  width: 100%;
+  background-color: yellow;
+}
