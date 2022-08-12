@@ -46,12 +46,12 @@ ul{
   }
   #home h1{
     color: rgb(246, 244, 246);
-    text-align: left;
-    font-style: italic;
+    text-align: center;
     padding-top: 105px;
     font-size: xx-large;
     font-weight: bolder;
-    margin-left: 100px;}
+    float: right;
+  margin-right: 650px;}
     button{
         border-radius: 250px;
         margin-left: 100px;
@@ -135,19 +135,30 @@ ul{
   font-style: italic;
   font-size: large;
   font-weight: bolder;
+  float: right;
+  margin-right: 300px;
+  
   
 }
 span{
-  color: rgb(226, 142, 226);
-  font-size: larger;
+  color:yellow;
+  font-size: xx-large;
   font-weight: bolder;
+  float: right;
+  margin-right: 250px;
 }
 
 .motto>p{
   
   font-family: 'Rubik Distressed', cursive;
 font-family: 'Space Grotesk', sans-serif;
-  font-weight: bold;
-  font-size: large;
+  font-weight: bolder;
+  font-size: xx-large;
   font-family: 'Space Grotesk', sans-serif;
+}
+#home1{
+  margin-left: 175px;
+  font-weight: bolder;
+  font-size: xx-large;
+  
 }
